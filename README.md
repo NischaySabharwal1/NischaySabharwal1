@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NischaySabharwal1
+- 👋 Hi, I’m Nischay Sabharwal
 - 👀 I’m interested in Data Engineering for Analysis and Applied Machine Learning
 - 🌱 I’m currently learning Data Science, Analytics and ML concepts
 - 💞️ I’m looking to collaborate on Analytical projects related to most business problems or sports(even better)
